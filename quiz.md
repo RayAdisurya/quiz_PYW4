@@ -25,7 +25,7 @@
     - [ ] 1.98 / 1368.70
 
 
-5. Give the `pivot_table` that you created a name. Remove the margins if they were included in the earlier step. Create a visualization by chaining the `.plot()` method on the pivot table. Set the `kind` parameter to be one of: `line`, `bar`, `scatter` & `box`. Which are the most appropriate plot type(s)? Choose THREE:
+5. Give the `pivot_table` that you created a name. Remove the margins if they were included in the earlier step. Create a visualization by chaining the `.plot()` method on the pivot table. Set the `kind` parameter to be one of: `line`, `bar`, `scatter` & `box`. Which are the **LEAST** appropriate plot type(s)?
     - [ ] `line`
     - [ ] `bar`
     - [ ] `scatter`
